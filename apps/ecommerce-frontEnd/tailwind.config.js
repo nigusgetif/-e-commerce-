@@ -26,12 +26,12 @@ module.exports = {
    
   },
   daisyui:{
-    thems:[{
+    themes:[{
       'fantasy':{
-        primary: '#000ff',
+        primary: '#0000ff',
         'primary-content':'white',
-        secondary:'F6F6F6',
-        neutral: 'E8E8E8'
+        secondary:'#F6F6F6',
+        neutral: '#E8E8E8'
       }
     },
     ],
